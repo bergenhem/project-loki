@@ -1,0 +1,27 @@
+{
+  "name": "project-loki",
+  "version": "0.0.1",
+  "description": "Project Loki - Online strategy game",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp-livereload": "^3.8.0",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-notify": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bergenhem/project-loki.git"
+  },
+  "author": "Carl Bergenhem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bergenhem/project-loki/issues"
+  },
+  "homepage": "https://github.com/bergenhem/project-loki#readme"
+}
