@@ -11,7 +11,8 @@
     "gulp-notify": "^2.2.0"
   },
   "devDependencies": {
-    "jasmine": "^2.3.2"
+    "jasmine": "^2.3.2",
+    "request": "^2.61.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
